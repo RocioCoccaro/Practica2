@@ -1,5 +1,5 @@
 #importamos tres funciones dentro de la carpeta src
-from src.funciones import calcular_puntos, determinar_mvp, mostrar_ranking
+from funciones import calcular_puntos, determinar_mvp, mostrar_ranking
 
 # Datos de las rondas (estan indicadas en el enunciado)
 #Rondas es una lista de diccionarios, donde cada diccionario representa una ronda
